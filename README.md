@@ -89,9 +89,11 @@ clean, responsive, and user-friendly web experiences.
   <p style="
     color:#FF6B6B;
     font-style: italic;
+    font-size: 14px;
     margin-top: 6px;
+    text-align: right;
   ">
-    — Swami Vivekananda
+    – Swami Vivekananda
   </p>
 
 </div>
