@@ -61,10 +61,14 @@ clean, responsive, and user-friendly web experiences.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>
 </p>
 
-## 🧰 Tools
+<h2>Tools</h2>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github," height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" />
 </p>
+
 
 ## 🏆 GitHub Trophies
 <p align="left">
