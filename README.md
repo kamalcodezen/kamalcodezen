@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Sk Kamaluddin</h1>
 <h3 align="center">As a frontend developer, I’m passionate about the frontend
 </h3>
-<h2 style="margin-bottom: 6px;">🚀 About Me</h2>
+<h1 style="margin-bottom: 6px;">💫 About Me</h1>
 
 <img 
   align="right" 
@@ -25,7 +25,7 @@ clean, responsive, and user-friendly web experiences.
 - 🔥 Goal: Professional Frontend Engineer
 
 <br clear="right"/>
-<h3>🌐 Connect with me</h3>
+<h2>🌐 Connect with me</h2>
 
 <p align="left">
   <a href="https://www.facebook.com/YOUR_FACEBOOK">
@@ -53,12 +53,12 @@ clean, responsive, and user-friendly web experiences.
 
 
 
- <h3>Skills</h3>
+ <h2>Skills</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,vscode" />
 </p>
 
- 🌟 Featured Projects
+<h2>🌟 Featured Projects</h2
 - 🎮 **Rock Paper Scissors Game**  
   https://kamalcodezen.github.io/Rock-Paper-Scissors-web/
 
