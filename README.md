@@ -1,22 +1,46 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover1.png" alt="GitHub Cover"/>
+  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover1.png" />
 </p>
 
+<h1 align="center">Hi 👋, I'm SK Kamaluddin</h1>
+<h3 align="center">Frontend Developer | UI Focused | Project Learner</h3>
 
+## 🚀 About Me
 
-## Hi there 👋 I am Sk Kamaluddin~
+I'm a passionate **Frontend Developer** who loves turning ideas into  
+clean, responsive, and user-friendly web experiences.
 
-<!--
-**kamalcodezen/kamalcodezen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning **HTML, CSS, JavaScript**
+- 🎯 Focused on UI design & real-world projects
+- 💡 Improving logic, performance & best practices
+- 🔥 Goal: Professional Frontend Engineer
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,vscode" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- 🎮 **Rock Paper Scissors Game**  
+  https://kamalcodezen.github.io/Rock-Paper-Scissors-web/
+
+- ❌⭕ **Tic Tac Toe Game**  
+  https://kamalcodezen.github.io/portfolio-tic-tac-toe-game/
+
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sk-kamaluddin-ab6401393">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/kamalcodezen">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalcodezen&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight" />
+</p>
