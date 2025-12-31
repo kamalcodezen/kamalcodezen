@@ -69,15 +69,10 @@ clean, responsive, and user-friendly web experiences.
 
 ## ✍️ Random Dev Quote
 
-
-> <span style="color:#9FE870;font-style:italic;">
-> “All power is within you;<br>
-> You can do anything and everything.”
-> </span>
->
-> <span style="color:#FF6B6B;font-style:italic;">
-> — Swami Vivekananda
-> </span>
+## 🔥 Random Dev Quote
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 
 ## ⭐ Featured Projects
