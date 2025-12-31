@@ -26,7 +26,7 @@ clean, responsive, and user-friendly web experiences.
 
 <br clear="right"/>
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 >🌐 Connect with me</h3> 
 <p align="center">
   <a href="https://www.linkedin.com/in/sk-kamaluddin-ab6401393">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
