@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover1.png" />
+  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover4.png" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm SK Kamaluddin</h1>
 <h3 align="center">Frontend Developer | UI Focused | Project Learner</h3>
