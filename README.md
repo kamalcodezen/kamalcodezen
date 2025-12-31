@@ -27,17 +27,29 @@ clean, responsive, and user-friendly web experiences.
 <br clear="right"/>
 <h3>🌐 Connect with me</h3>
 
-<p>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+<p align="left">
+  <a href="https://www.facebook.com/YOUR_FACEBOOK">
+    <img
+      src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      height="45"
+    />
   </a>
-  <a href="https://github.com/kamalcodezen" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+
+  <a href="https://github.com/kamalcodezen">
+    <img
+      src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"
+      height="45"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="45"
+    />
   </a>
 </p>
+
 
 
 
