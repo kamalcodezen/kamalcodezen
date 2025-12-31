@@ -51,31 +51,25 @@ clean, responsive, and user-friendly web experiences.
 
 </p>
 
-<h2>Frontend Skills</h2>
-
-<div style="
-  display:flex;
-  gap:16px;
-  flex-wrap:wrap;
-  align-items:center;
-">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       width="40" height="40"
-       style="background:#161b22;padding:8px;border-radius:10px;" />
+       width="36" height="36" style="margin-right:12px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       width="40" height="40"
-       style="background:#161b22;padding:8px;border-radius:10px;" />
+       width="36" height="36" style="margin-right:12px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-       width="40" height="40"
-       style="background:#161b22;padding:8px;border-radius:10px;" />
+       width="36" height="36" style="margin-right:12px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-       width="40" height="40"
-       style="background:#161b22;padding:8px;border-radius:10px;" />
-</div>
+       width="36" height="36" style="margin-right:12px;" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+       width="36" height="36" style="margin-right:12px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+       width="36" height="36" />
+</p>
 
 
 ## 🧰 Tools
