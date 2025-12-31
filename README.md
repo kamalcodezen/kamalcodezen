@@ -6,9 +6,9 @@
 <h3 align="center">Frontend Developer | UI Focused | Project Learner</h3>
 <h2>🚀 About Me</h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="top" style="border:none;">
 
 I'm a passionate **Frontend Developer** who loves turning ideas into  
 clean, responsive, and user-friendly web experiences.
@@ -20,13 +20,14 @@ clean, responsive, and user-friendly web experiences.
 
     </td>
 
-    <td width="40%" align="center">
+    <td width="40%" align="center" style="border:none;">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" alt="coding animation"/>
 
     </td>
   </tr>
 </table>
+
 
 ## 🛠 Tech Stack
 <p>
