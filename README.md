@@ -61,14 +61,23 @@ clean, responsive, and user-friendly web experiences.
   <img src="https://skillicons.dev/icons?i=vscode,git,github," height="38"/>
 </p>
 
+## 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamalcodezen&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
+## 🔥 Random Dev Quote
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-<h2>🌟 Featured Projects</h2
-- 🎮 **Rock Paper Scissors Game**  
-  https://kamalcodezen.github.io/Rock-Paper-Scissors-web/
+## ⭐ Featured Projects
+- 🪨 **Rock Paper Scissors Game**  
+  🔗 https://kamalcodezen.github.io/Rock-Paper-Scissors-web/
 
 - ❌⭕ **Tic Tac Toe Game**  
-  https://kamalcodezen.github.io/portfolio-tic-tac-toe-game/
+  🔗 https://kamalcodezen.github.io/portfolio-tic-tac-toe-game/
+
 
 
 <p align="center">
