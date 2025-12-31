@@ -68,37 +68,17 @@ clean, responsive, and user-friendly web experiences.
 </p>
 
 ## 🔥 Random Dev Quote
-<!-- 🔥 Random Dev Quote -->
-<div style="
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-  padding: 18px 22px;
-  border-radius: 10px;
-  margin: 14px 0;
-  box-shadow: 0 0 12px rgba(0,0,0,0.6);
-">
+🔥 **Random Dev Quote**
 
-  <p style="
-    color: #7fffd4;
-    font-style: italic;
-    font-size: 16px;
-    line-height: 1.7;
-    margin: 0;
-  ">
-    “All power is within you;<br>
-    You can do anything and everything.”
-  </p>
+> <span style="color:#9FE870;font-style:italic;">
+> “All power is within you;<br>
+> You can do anything and everything.”
+> </span>
+>
+> <span style="color:#FF6B6B;font-style:italic;">
+> — Swami Vivekananda
+> </span>
 
-  <p style="
-    color: #ff4d6d;
-    font-style: italic;
-    text-align: right;
-    margin-top: 10px;
-    font-size: 14px;
-  ">
-    — Swami Vivekananda
-  </p>
-
-</div>
 
 ## ⭐ Featured Projects
 - 🪨 **Rock Paper Scissors Game**  
