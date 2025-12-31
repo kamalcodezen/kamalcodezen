@@ -67,8 +67,8 @@ clean, responsive, and user-friendly web experiences.
   <img src="https://github-profile-trophy.vercel.app/?username=kamalcodezen&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
-## 🔥 Random Dev Quote
-🔥 **Random Dev Quote**
+## ✍️ Random Dev Quote
+
 
 > <span style="color:#9FE870;font-style:italic;">
 > “All power is within you;<br>
