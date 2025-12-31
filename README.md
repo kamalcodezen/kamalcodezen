@@ -74,36 +74,16 @@ clean, responsive, and user-friendly web experiences.
 
 - ❌⭕ **Tic Tac Toe Game**  
   🔗 https://kamalcodezen.github.io/portfolio-tic-tac-toe-game/
-
 ## 🔥 Random Dev Quote
 
-<div align="center" style="
-  border:1px solid #30363d;
-  border-radius:12px;
-  padding:24px;
-  background:#0d1117;
-  max-width:600px;
-">
+<p style="color:#9FE870; font-style: italic; font-size: 16px; line-height: 1.6;">
+“All power is within you;<br>
+You can do anything and everything.”
+</p>
 
-  <p style="
-    font-size:18px;
-    font-style:italic;
-    color:#c9d1d9;
-    line-height:1.6;
-  ">
-    “All power is within you;<br/>
-    You can do anything and everything.”
-  </p>
-
-  <p style="
-    margin-top:12px;
-    font-weight:bold;
-    color:#58a6ff;
-  ">
-    — Swami Vivekananda
-  </p>
-
-</div>
+<p align="right" style="color:#FF6B6B; font-style: italic;">
+— Swami Vivekananda
+</p>
 
 
 <p align="center">
