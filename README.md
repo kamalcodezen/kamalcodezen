@@ -51,13 +51,17 @@ clean, responsive, and user-friendly web experiences.
 
 </p>
 
-
-
-
- <h2>Skills</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,vscode" />
+##  Frontend Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,css,html" height="48"/>
 </p>
+
+## 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" height="38"/>
+</p>
+
+
 
 <h2>🌟 Featured Projects</h2
 - 🎮 **Rock Paper Scissors Game**  
