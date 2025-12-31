@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover4.png" width="380" />
+  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover1.png" width="100%" />
+
 </p>
 
 
