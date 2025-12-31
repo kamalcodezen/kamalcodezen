@@ -58,7 +58,7 @@ clean, responsive, and user-friendly web experiences.
 
 ## 🧰 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" height="38"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github," height="38"/>
 </p>
 
 
