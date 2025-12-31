@@ -69,12 +69,6 @@ clean, responsive, and user-friendly web experiences.
 
 ## ✍️ Random Dev Quote
 
-## 🔥 Random Dev Quote
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-## 🔥 Random Dev Quote
-
 <p align="left">
   <img 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=All%20power%20is%20within%20you.%20You%20can%20do%20anything%20and%20everything.&author=Swami%20Vivekananda" 
