@@ -1,6 +1,6 @@
 <p align="center">
  <p align="center">
-  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover1.png" width="900" />
+  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover1.png" width="600" />
 </p>
 
 
