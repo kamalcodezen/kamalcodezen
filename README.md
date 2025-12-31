@@ -66,14 +66,6 @@ clean, responsive, and user-friendly web experiences.
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=kamalcodezen&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
-
-
-## ⭐ Featured Projects
-- 🪨 **Rock Paper Scissors Game**  
-  🔗 https://kamalcodezen.github.io/Rock-Paper-Scissors-web/
-
-- ❌⭕ **Tic Tac Toe Game**  
-  🔗 https://kamalcodezen.github.io/portfolio-tic-tac-toe-game/
 ## 🔥 Random Dev Quote
 
 <p style="color:#9FE870; font-style: italic; font-size: 16px; line-height: 1.6;">
@@ -84,6 +76,14 @@ You can do anything and everything.”
 <p align="right" style="color:#FF6B6B; font-style: italic;">
 — Swami Vivekananda
 </p>
+
+
+## ⭐ Featured Projects
+- 🪨 **Rock Paper Scissors Game**  
+  🔗 https://kamalcodezen.github.io/Rock-Paper-Scissors-web/
+
+- ❌⭕ **Tic Tac Toe Game**  
+  🔗 https://kamalcodezen.github.io/portfolio-tic-tac-toe-game/
 
 
 <p align="center">
