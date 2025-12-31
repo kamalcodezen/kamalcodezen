@@ -25,19 +25,20 @@ clean, responsive, and user-friendly web experiences.
 - 🔥 Goal: Professional Frontend Engineer
 
 <br clear="right"/>
-### 🌐 Connect with me
+<h3>🌐 Connect with me</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://github.com/kamalcodezen">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+  <a href="https://github.com/kamalcodezen" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 
 ## 🛠 Tech Stack
