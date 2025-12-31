@@ -52,15 +52,27 @@ clean, responsive, and user-friendly web experiences.
 </p>
 
 ## Frontend Skills
+
 <p align="left">
-  <img src="https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6" />
-  <img src="https://img.shields.io/badge/TAILWIND-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+       width="56" height="56" style="background:#161b22;padding:10px;border-radius:12px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+       width="56" height="56" style="background:#161b22;padding:10px;border-radius:12px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+       width="56" height="56" style="background:#161b22;padding:10px;border-radius:12px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+       width="56" height="56" style="background:#161b22;padding:10px;border-radius:12px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+       width="56" height="56" style="background:#161b22;padding:10px;border-radius:12px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+       width="56" height="56" style="background:#161b22;padding:10px;border-radius:12px;" />
 </p>
->
+
 
 ## 🧰 Tools
 <p align="left">
