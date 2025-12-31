@@ -53,7 +53,7 @@ clean, responsive, and user-friendly web experiences.
 
 
 
- 🛠 Tech Stack
+ <h3>Skills</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,vscode" />
 </p>
