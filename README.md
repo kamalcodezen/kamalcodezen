@@ -68,14 +68,14 @@ clean, responsive, and user-friendly web experiences.
 </p>
 
 ## 🔥 Random Dev Quote
-<div align="left" style="border-left:3px solid #9FE870; padding-left:14px; margin:16px 0">
-  <span style="color:#9FE870; font-style:italic; font-size:16px; line-height:1.6">
-    “All power is within you;<br>
+<div style="border-left:3px solid #9FE870; padding-left:14px; margin:16px 0;">
+  <p style="color:#9FE870; font-style:italic; font-size:15px; line-height:1.6; margin:0;">
+    “All power is within you;<br/>
     You can do anything and everything.”
-  </span><br>
-  <span style="color:#FF6B6B; font-style:italic; font-size:14px">
-    – Swami Vivekananda
-  </span>
+  </p>
+  <p style="color:#FF6B6B; font-style:italic; margin:6px 0 0;">
+    — Swami Vivekananda
+  </p>
 </div>
 
 ## ⭐ Featured Projects
