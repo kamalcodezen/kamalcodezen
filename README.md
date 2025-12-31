@@ -68,7 +68,6 @@ clean, responsive, and user-friendly web experiences.
 </p>
 
 ## 🔥 Random Dev Quote
-
 <div align="left" style="border-left:3px solid #9FE870;padding-left:14px;margin:16px 0">
   <span style="color:#9FE870;font-style:italic;font-size:16px;line-height:1.6">
     “All power is within you;<br>
@@ -78,7 +77,6 @@ clean, responsive, and user-friendly web experiences.
     – Swami Vivekananda
   </span>
 </div>
-
 
 ## ⭐ Featured Projects
 - 🪨 **Rock Paper Scissors Game**  
