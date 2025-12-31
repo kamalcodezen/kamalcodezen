@@ -4,9 +4,15 @@
 
 <h1 align="center">Hi 👋, I'm SK Kamaluddin</h1>
 <h3 align="center">Frontend Developer | UI Focused | Project Learner</h3>
-<h2>🚀 About Me</h2>
+<h2 style="margin-bottom: 6px;">🚀 About Me</h2>
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="240" alt="coding animation"/>
+<img 
+  align="right" 
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+  width="300"
+  style="margin-top: 0px; margin-left: 12px;"
+  alt="coding animation"
+/>
 
 I'm a passionate **Frontend Developer** who loves turning ideas into  
 clean, responsive, and user-friendly web experiences.
