@@ -50,24 +50,16 @@ clean, responsive, and user-friendly web experiences.
 </a>
 
 </p>
-<h2>Frontend Skills</h2>
+## Frontend Skills
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css&theme=dark" />
+</div>
 
-<p style="display:flex; gap:25px;  align-items:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  margin:20px width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>
-</p>
+## Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+</div>
 
-<h2>Tools</h2>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" />
-</p>
 
 
 ## 🏆 GitHub Trophies
