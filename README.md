@@ -50,7 +50,7 @@ clean, responsive, and user-friendly web experiences.
 </a>
 
 </p>
-## Frontend Skills
+<h2>Frontend Skills</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css&theme=dark" />
 </div>
