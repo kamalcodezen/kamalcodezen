@@ -15,6 +15,10 @@ clean, responsive, and user-friendly web experiences.
 - 💡 Improving logic, performance & best practices
 - 🔥 Goal: Professional Frontend Engineer
 
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
+</p>
+
 ## 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,vscode" />
