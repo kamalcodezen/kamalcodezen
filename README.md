@@ -53,12 +53,12 @@ clean, responsive, and user-friendly web experiences.
 
 
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,vscode" />
 </p>
 
-## 🌟 Featured Projects
+ 🌟 Featured Projects
 - 🎮 **Rock Paper Scissors Game**  
   https://kamalcodezen.github.io/Rock-Paper-Scissors-web/
 
