@@ -13,8 +13,7 @@
   src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
   width="300"
   style="margin-top: 0px; margin-left: 12px;"
-  alt="coding animation"
-/>
+  alt="coding animation"/>
 
 
  I'm a passionate **Frontend Developer** who loves turning ideas into  
