@@ -5,7 +5,11 @@
 <h1 align="center">Hi 👋, I'm SK Kamaluddin</h1>
 <h3 align="center">Frontend Developer | UI Focused | Project Learner</h3>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 I'm a passionate **Frontend Developer** who loves turning ideas into  
 clean, responsive, and user-friendly web experiences.
@@ -15,9 +19,15 @@ clean, responsive, and user-friendly web experiences.
 - 💡 Improving logic, performance & best practices
 - 🔥 Goal: Professional Frontend Engineer
 
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
-</p>
+    </td>
+
+    <td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260"/>
+
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 <p>
