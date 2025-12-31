@@ -42,12 +42,13 @@ clean, responsive, and user-friendly web experiences.
     />
   </a>
 
-  <a href="www.linkedin.com/in/sk-kamaluddin-ab6401393">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="45"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/sk-kamaluddin-ab6401393" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    height="45"
+  />
+</a>
+
 </p>
 
 
