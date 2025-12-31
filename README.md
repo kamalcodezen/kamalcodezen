@@ -66,16 +66,35 @@ clean, responsive, and user-friendly web experiences.
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=kamalcodezen&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
+
 ## 🔥 Random Dev Quote
 
-<p style="color:#9FE870; font-style: italic; font-size: 16px; line-height: 1.6;">
-“All power is within you;<br>
-You can do anything and everything.”
-</p>
+<div style="
+  border-left: 3px solid #9FE870;
+  padding-left: 14px;
+  margin: 12px 0;
+">
 
-<p align="right" style="color:#FF6B6B; font-style: italic;">
-— Swami Vivekananda
-</p>
+  <p style="
+    color:#9FE870;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0;
+  ">
+    “All power is within you;<br>
+    You can do anything and everything.”
+  </p>
+
+  <p style="
+    color:#FF6B6B;
+    font-style: italic;
+    margin-top: 6px;
+  ">
+    — Swami Vivekananda
+  </p>
+
+</div>
 
 
 ## ⭐ Featured Projects
