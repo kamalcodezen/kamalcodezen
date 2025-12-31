@@ -16,8 +16,9 @@
   alt="coding animation"
 />
 
-I'm a passionate **Frontend Developer** who loves turning ideas into  
-clean, responsive, and user-friendly web experiences.
+
+ I'm a passionate **Frontend Developer** who loves turning ideas into  
+ clean, responsive, and user-friendly web experiences.
 
 - 🌱 Currently learning **HTML, CSS, JavaScript**
 - 🎯 Focused on UI design & real-world projects
