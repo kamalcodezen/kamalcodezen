@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm SK Kamaluddin</h1>
 <h3 align="center">Frontend Developer | UI Focused | Project Learner</h3>
-
 <h2>🚀 About Me</h2>
 
 <table>
