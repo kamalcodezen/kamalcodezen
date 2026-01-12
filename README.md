@@ -2,8 +2,16 @@
  <p align="center">
  <img src="new-pic.png" width="600" alt="Profile Banner">
 </p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  Hi, I'm Sk Kamaluddin
+</h1>
 
-<h1 align="center">Hi 👋, I'm Sk Kamaluddin</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Web;Learning+Everyday" />
+</p>
+
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Web;Learning+Everyday"
