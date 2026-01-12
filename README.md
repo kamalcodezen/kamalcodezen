@@ -4,6 +4,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sk Kamaluddin</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Web;Learning+Everyday"
+  />
+</p>
+
 <h3 align="center">As a frontend developer, I’m passionate about the frontend
 </h3>
 <h1 style="margin-bottom: 6px;">💫 About Me</h1>
