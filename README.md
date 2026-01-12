@@ -1,8 +1,8 @@
-<p align="center">
+
  <p align="center">
-  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover1.png"  width="700" />
+ <img src="new-pic.png" width="600" alt="Profile Banner">
 </p>
-</p>
+
 <h1 align="center">Hi 👋, I'm Sk Kamaluddin</h1>
 <h3 align="center">As a frontend developer, I’m passionate about the frontend
 </h3>
