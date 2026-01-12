@@ -1,6 +1,6 @@
 <p align="center">
  <p align="center">
-  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover1.png" height="700" width="1000" />
+  <img src="https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/main/cover1.png" height="700" width="700" />
 </p>
 </p>
 <h1 align="center">Hi 👋, I'm Sk Kamaluddin</h1>
