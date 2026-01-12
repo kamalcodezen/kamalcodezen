@@ -8,7 +8,18 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Web;Learning+Everyday" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?
+    font=Pacifico
+    &size=24
+    &duration=2600
+    &pause=900
+    &color=FF69B4
+    &center=true
+    &vCenter=true
+    &width=800
+    &lines=🌱+Always+learning%2C+always+growing;🧠+Frontend+Developer+in+the+making;🎯+Focused+on+clean+and+responsive+UI;⚙️+JavaScript+%7C+React+%7C+Web;🚀+Turning+ideas+into+impactful+interfaces"
+  />
 </p>
 
 <h3 align="center">As a frontend developer, I’m passionate about the frontend
