@@ -7,10 +7,10 @@
   Hi, I'm Sk Kamaluddin
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=3900&pause=2000&color=FF69B4&center=true&vCenter=true&width=820&lines=🌱+Always+learning%2C+always+growing;🧠+Frontend+Developer+in+the+making;🎯+Focused+on+clean+and+responsive+UI;⚙️+JavaScript+%7C+React+%7C+Web;🚀+Turning+ideas+into+impactful+interfaces">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=3900&pause=2000&color=FF69B4&center=true&vCenter=true&width=820&lines=🌱+Always+learning%2C+always+growing;🧠+Junior Web Developer+in+the+making;🎯+Focused+on+clean+and+responsive+UI;⚙️+JavaScript+%7C+React+%7C+Web;🚀+Turning+ideas+into+impactful+interfaces">
 </p>
 
-<h3 align="center">As a frontend developer, I’m passionate about the frontend
+<h3 align="center">As a Junior Web Developer, I’m passionate about the frontend
 </h3>
 <h1 style="margin-bottom: 6px;">💫 About Me</h1>
 
