@@ -44,7 +44,11 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kamalcodezen&label=Profile%20views&color=0e75b6&style=flat" alt="kamalcodezen" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamalcodezen&style=for-the-badge&color=00bfbf&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kamalcodezen?style=for-the-badge&color=00bfbf&labelColor=1a1b27&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/kamalcodezen?style=for-the-badge&color=00bfbf&labelColor=1a1b27&logo=github" alt="GitHub Stars" />
+</div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalcodezen" alt="kamalcodezen" /></a> </p>
 <h2>Frontend Skills</h2>
