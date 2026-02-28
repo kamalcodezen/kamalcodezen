@@ -87,11 +87,12 @@
 
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalcodezen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight&hide_border=true&background=1a1b27&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" width="49%" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalcodezen&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalcodezen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00bfbf&text_color=c9d1d9" alt="Top Languages" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" alt="Activity Graph" width="49%" />
 </div>
