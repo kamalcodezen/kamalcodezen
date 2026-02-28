@@ -62,12 +62,18 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 </div>
 
+---
 
+## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight&hide_border=true&background=1a1b27&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" width="49%" />
+</div>
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamalcodezen&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" alt="Activity Graph" width="49%" />
+</div>
+
+---
 
 ## ✍️ Random Dev Quote
 
@@ -94,17 +100,7 @@
 
 - ❌⭕ **Flower Animation Web**  
   🔗 https://kamalcodezen.github.io/flower-animation-repo/
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight&hide_border=true&background=1a1b27&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" alt="Activity Graph" width="49%" />
-</div>
-
+  
 ---
 
 ## 📫 Contact Information
