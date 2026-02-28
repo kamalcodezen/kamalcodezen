@@ -44,7 +44,9 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a>
 <br>
-
+ 
+<br clear="right"/>
+ 
 <div align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamaluddin7908@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -56,7 +58,8 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
- 
+
+ <br clear="right"/>
 </p>
 
 <div align="center">
