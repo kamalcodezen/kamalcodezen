@@ -4,14 +4,16 @@
 </p>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
-  Hi, I'm Sk Kamaluddin
+<h1 align="center">🏆Sk Kamaluddin is Here🏆</h1>
+
+<br/>
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;React+Specialist+⚛️;Open+Source+Enthusiast+🌱;Passionate+about+Learning+📚" alt="Typing SVG" />
 </p>
 
 
-<h3 align="center">As a Junior Web Developer, I’m passionate about the frontend
+<h3 align="center">As a Junior Web Developer, I’m passionate about the frontend From India
 </h3>
 
 <br clear="right"/>
