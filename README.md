@@ -93,3 +93,18 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight" />
 </p>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
+</div>
+
+<div align="center">
+  
+  ⭐️ **If you like my work, feel free to star my repos!**  
+  🤝 **I'm open to collaboration and learning from amazing developers!**
+  
+  ![Snake animation](https://github.com/kamalcodezen/kamalcodezen/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
