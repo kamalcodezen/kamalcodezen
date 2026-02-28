@@ -94,6 +94,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight" />
 </p>
 
+---
+
+## 📫 Contact Information
+
+<div align="center">
+
+📍 **Location:** New Delhi, India  
+📧 **Email:** kamaluddin7908@gmail.com
+📞 **Phone:** 
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
