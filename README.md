@@ -13,6 +13,12 @@
 
 <h3 align="center">As a Junior Web Developer, I’m passionate about the frontend
 </h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamalcodezen&style=for-the-badge&color=00bfbf&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kamalcodezen?style=for-the-badge&color=00bfbf&labelColor=1a1b27&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/kamalcodezen?style=for-the-badge&color=00bfbf&labelColor=1a1b27&logo=github" alt="GitHub Stars" />
+</div>
 <h1 style="margin-bottom: 6px;">💫 About Me</h1>
 
 <img 
