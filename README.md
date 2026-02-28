@@ -86,6 +86,9 @@
   🔗 https://kamalcodezen.github.io/flower-animation-repo/
 
 
+
+
+<div align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamalcodezen&show_icons=true&theme=tokyonight" />
 </p>
@@ -93,8 +96,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight" />
 </p>
-
-<div align="center">
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalcodezen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00bfbf&text_color=c9d1d9" alt="Top Languages" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" alt="Activity Graph" width="49%" />
 </div>
