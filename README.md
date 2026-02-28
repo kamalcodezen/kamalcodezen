@@ -3,8 +3,8 @@
  <img src="new-pic.png" width="600" alt="Profile Banner">
 </p>
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
-<h1 align="center">🏆Sk Kamaluddin is Here🏆</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />  Hi
+🏆Sk Kamaluddin is Here🏆
 
 <br/>
 </h1>
