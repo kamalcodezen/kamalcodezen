@@ -52,7 +52,7 @@
 <br clear="right"/>
  
 <div align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamaluddin7908@gmail.com" target="_blank">
+<a href="mailto:kamaluddin7908@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
   <a href="https://wa.me/+917908593703" target="_blank">
@@ -97,7 +97,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/kamalcodezen?style=social)
+![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalcodezen&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalcodezen&layout=compact&theme=radical)
+
+
 
 ---
 
@@ -120,8 +124,9 @@
 
 
 ## ⭐ Featured Projects
-- 🪨 **Rock Paper Scissors Game**  
-  🔗 https://kamalcodezen.github.io/Rock-Paper-Scissors-web/
+### 🪨 Rock Paper Scissors Game
+✨ Interactive DOM-based game  
+🔗 Live Demo: https://kamalcodezen.github.io/Rock-Paper-Scissors-web/
 
 - ❌⭕ **Flower Animation Web**  
   🔗 https://kamalcodezen.github.io/flower-animation-repo/
