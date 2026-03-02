@@ -97,9 +97,7 @@
 
 ## 📊 GitHub Stats
 
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalcodezen&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalcodezen&layout=compact&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/kamalcodezen?style=social)
 
 ---
 
