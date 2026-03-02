@@ -52,7 +52,7 @@
 <br clear="right"/>
  
 <div align="center">
-[<a href="mailto:kamaluddin7908@gmail.com">](https://mail.google.com/mail/?view=cm&fs=1&to=kamaluddin7908@gmail.com)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamaluddin7908@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
   <a href="https://wa.me/+917908593703" target="_blank">
