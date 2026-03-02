@@ -71,15 +71,16 @@
   <img src="https://img.shields.io/github/stars/kamalcodezen?style=for-the-badge&color=00bfbf&labelColor=1a1b27&logo=github" alt="GitHub Stars" />
 </div>
  
+<p align="center"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamalcodezen" alt="kamalcodezen" /></a>
 </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalcodezen" alt="kamalcodezen" /></a> </p>
 
 ---
 
 ## 🚀 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,prisma,aws,postgresql,github,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,github,docker,figma" />
 </p>
 
 ---
@@ -92,16 +93,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" alt="Activity Graph" width="50%" />
 </div>
-
----
-
-## 📊 GitHub Stats
-
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalcodezen&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalcodezen&layout=compact&theme=radical)
-
-
 
 ---
 
