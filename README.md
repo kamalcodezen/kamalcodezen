@@ -74,15 +74,13 @@
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalcodezen" alt="kamalcodezen" /></a> </p>
-<h2>Frontend Skills</h2>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css&theme=dark" />
-</div>
 
-## Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
-</div>
+---
+
+## 🚀 Tech Stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,prisma,aws,postgresql,github,docker,figma" />
+</p>
 
 ---
 
