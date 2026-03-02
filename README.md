@@ -91,6 +91,8 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" alt="Activity Graph" width="50%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalcodezen&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ---
