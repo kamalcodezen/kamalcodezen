@@ -98,12 +98,12 @@
     <td>
 ## 👤 Profile Visitors
 <p align="left">
-  <img src="https://count.getloli.com/get/@RS-Arafath?theme=moebooru" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@RS-Arafath?theme=moebooru" alt="Visitor Count" width="500" />
 </p>
 
   </td>
     <td>
-## 🔝 Top Contributed Repo
+  
 ![](https://github-contributor-stats.vercel.app/api?username=kamalcodezen&limit=5&theme=transparent&combine_all_yearly_contributions=true)
     </td>
   </tr>
