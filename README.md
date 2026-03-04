@@ -121,6 +121,8 @@
   />
 </p>
 
+
+## 💡 Featured Projects
 <div align="center">
 
 | Project | Description | Tech Stack | Live | Code |
@@ -132,7 +134,7 @@
 | 🎆 Realistic Fireworks | Creative JavaScript Animation Project | HTML, CSS, JavaScript | [Live](https://kamalcodezen.github.io/realistic-fireworks/) | [Code](https://github.com/kamalcodezen/realistic-fireworks) |
 | 🌸 Flower Animation | CSS Based Creative Animation | HTML, CSS | [Live](https://kamalcodezen.github.io/flower-animation-repo/) | [Code](https://github.com/kamalcodezen/flower-animation-repo) |
 | 🧠 Fitness Web UI | Modern Responsive Fitness Website Design | HTML, CSS | [Live](https://kamalcodezen.github.io/fitness-web-repo/) | [Code](https://github.com/kamalcodezen/fitness-web-repo) |
-| ❌⭕ Tic Tac Toe Game | Interactive JavaScript Game with Logic | HTML, CSS, JavaScript | — | [Code](https://github.com/kamalcodezen/portfolio-tic-tac-toe-game) |
+
 
 </div>
 
