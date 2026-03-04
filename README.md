@@ -93,6 +93,9 @@
   </tr>
 </table>
 
+---
+
+## 📈 Contribution Graph
 <table>
   <tr>
     <td>
@@ -109,8 +112,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 ## ✍️ Random Dev Quote
@@ -122,17 +123,6 @@
 </p>
 
 ---
-
-
-
-
-## 📈 Contribution Graph
-<div align="center">
- 
-</div>
-
----
-
 
 ## ⭐ Featured Projects
 ### 🪨 Rock Paper Scissors Game
