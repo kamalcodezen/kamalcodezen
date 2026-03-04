@@ -70,15 +70,14 @@
 <img src="https://img.shields.io/github/followers/kamalcodezen?style=for-the-badge&cacheSeconds=1" />
   <img src="https://img.shields.io/github/stars/kamalcodezen?style=for-the-badge&color=00bfbf&labelColor=1a1b27&logo=github" alt="GitHub Stars" />
 </div>
- 
----
+
 
 ## 🚀 Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,github,figma" />
 </p>
 
----
+
 
 ## 📊 GitHub Statistics
 
@@ -93,7 +92,7 @@
   </tr>
 </table>
 
----
+
 
 ## 📈 Contribution Graph
 <table>
@@ -112,7 +111,7 @@
   </tr>
 </table>
 
----
+
 
 ## ✍️ Random Dev Quote
 
@@ -122,7 +121,7 @@
   />
 </p>
 
----
+
 
 ## ⭐ Featured Projects
 ### 🪨 Rock Paper Scissors Game
@@ -131,8 +130,7 @@
 
 - ❌⭕ **Flower Animation Web**  
   🔗 https://kamalcodezen.github.io/flower-animation-repo/
-  
----
+
 
 ## 📫 Contact Information
 
@@ -144,7 +142,7 @@
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
