@@ -108,7 +108,7 @@
 
 </div
 
-
+<br>
 
 
 ## 📈 Contribution Graph
@@ -129,7 +129,7 @@
     </td>
   </tr>
 </table>
--- >
+-->
 
 
 ## ✍️ Random Dev Quote
