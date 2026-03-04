@@ -98,7 +98,7 @@
     <td>
 
 <p align="left">
-  <img src="https://count.getloli.com/get/@RS-Arafath?theme=moebooru" alt="Visitor Count" width="500" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalcodezen&theme=github_dark" alt="Contribution Graph" width="500" />
 </p>
 
   </td>
@@ -128,7 +128,7 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalcodezen&theme=github_dark" alt="Contribution Graph" />
+ 
 </div>
 
 ---
