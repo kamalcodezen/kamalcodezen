@@ -96,7 +96,7 @@
 <table>
   <tr>
     <td>
-## 👤 Profile Visitors
+
 <p align="left">
   <img src="https://count.getloli.com/get/@RS-Arafath?theme=moebooru" alt="Visitor Count" width="500" />
 </p>
