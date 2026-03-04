@@ -121,7 +121,20 @@
   />
 </p>
 
+<div align="center">
 
+| Project | Description | Tech Stack | Live | Code |
+|---------|-------------|------------|------|------|
+| 📘 English Janala | API ভিত্তিক Interactive Vocabulary Learning App (Search, Dark Mode, Voice) | HTML, Tailwind, DaisyUI, JavaScript, REST API | [Live](https://kamalcodezen.github.io/english-janala-vocabulary-app/) | [Code](https://github.com/kamalcodezen/english-janala-vocabulary-app) |
+| 💸 Payoo Money Transfer | Modern Banking UI with Transaction Layout | HTML, CSS, JavaScript | [Live](https://kamalcodezen.github.io/payoo-money-transfer-project/) | [Code](https://github.com/kamalcodezen/payoo-money-transfer-project) |
+| 🍵 Tea House Landing Page | Fully Responsive Tailwind CSS Landing Page | HTML, Tailwind CSS | [Live](https://kamalcodezen.github.io/tea-house-tailwind-project/) | [Code](https://github.com/kamalcodezen/tea-house-tailwind-project) |
+| 🎮 Rock Paper Scissors | JavaScript Logic Based Classic Game | HTML, CSS, JavaScript | [Live](https://kamalcodezen.github.io/Rock-Paper-Scissors-web/) | [Code](https://github.com/kamalcodezen/Rock-Paper-Scissors-web) |
+| 🎆 Realistic Fireworks | Creative JavaScript Animation Project | HTML, CSS, JavaScript | [Live](https://kamalcodezen.github.io/realistic-fireworks/) | [Code](https://github.com/kamalcodezen/realistic-fireworks) |
+| 🌸 Flower Animation | CSS Based Creative Animation | HTML, CSS | [Live](https://kamalcodezen.github.io/flower-animation-repo/) | [Code](https://github.com/kamalcodezen/flower-animation-repo) |
+| 🧠 Fitness Web UI | Modern Responsive Fitness Website Design | HTML, CSS | [Live](https://kamalcodezen.github.io/fitness-web-repo/) | [Code](https://github.com/kamalcodezen/fitness-web-repo) |
+| ❌⭕ Tic Tac Toe Game | Interactive JavaScript Game with Logic | HTML, CSS, JavaScript | — | [Code](https://github.com/kamalcodezen/portfolio-tic-tac-toe-game) |
+
+</div>
 
 ## ⭐ Featured Projects
 ### 🪨 Rock Paper Scissors Game
