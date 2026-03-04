@@ -107,8 +107,8 @@
 | 🧠 Fitness Web UI | Modern Responsive Fitness Website Design | HTML, CSS | [Live](https://kamalcodezen.github.io/fitness-web-repo/) | [Code](https://github.com/kamalcodezen/fitness-web-repo) |
 
 </div
-
 <br/>
+
 
 ## ✍️ Random Dev Quote
 
