@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-
+<br/>
 
 ## 💡 Featured Projects
 <div align="center">
@@ -109,8 +109,6 @@
 </div
 
 <br/>
-
-
 
 ## ✍️ Random Dev Quote
 
