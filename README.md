@@ -113,14 +113,14 @@
 
 ## 📈 Contribution Graph
 
+<p align="left">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalcodezen&theme=github_dark" alt="Contribution Graph" width="1000" />
+</p>
 
+<!--
 <table>
   <tr>
     <td>
-
-<p align="left">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalcodezen&theme=github_dark" alt="Contribution Graph" width="500" />
-</p>
 
   </td>
     <td>
@@ -129,7 +129,7 @@
     </td>
   </tr>
 </table>
-
+-- >
 
 
 ## ✍️ Random Dev Quote
