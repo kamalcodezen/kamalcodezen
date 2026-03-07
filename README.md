@@ -167,7 +167,9 @@
   ⭐️ **If you like my work, feel free to star my repos!**  
   🤝 **I'm open to collaboration and learning from amazing developers!**
   
-![Snake animation](https://raw.githubusercontent.com/kamalcodezen/kamalcodezen/output/dist/github-contribution-grid-snake.svg)
-  
 </div>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/kamalcodezen/kamalcodezen/blob/output/github-contribution-grid-snake.svg)
 
