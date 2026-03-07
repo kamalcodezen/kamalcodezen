@@ -170,6 +170,6 @@
 </div>
 
 ## 🐍 Contribution Snake
-<div align="center">
-![Snake animation](https://github.com/kamalcodezen/kamalcodezen/blob/output/github-contribution-grid-snake.svg)
-</div>
+<p align="center">
+  <img src="https://github.com/kamalcodezen/kamalcodezen/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
