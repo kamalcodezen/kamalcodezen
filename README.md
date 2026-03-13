@@ -6,7 +6,7 @@
 
 <!-- ✨ Intro Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+world!+🚀;ASPIRING+MERN+Stack+Developer;Building+amazing+web+experiences;Always+learning+new+technologies;Aspiring+React+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+world!+🚀;Aspiring+MERN+Stack+Developer;Building+amazing+web+experiences;Always+learning+new+technologies;Aspiring+React+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
