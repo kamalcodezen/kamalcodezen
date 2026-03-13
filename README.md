@@ -1,15 +1,20 @@
  
- <p align="center">
- <img src="new-pic.png" width="600" alt="Profile Banner">
-</p>
+<div align="center">
+  <!-- 🌟 Banner Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,1&height=180&section=header&text=SK%20KAMALUDDIN&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Enthusiast&descAlignY=50&descAlign=50" alt="Banner" />
+</div>
+
+<!-- ✨ Intro Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+world!+🚀;ASPIRING+MERN+Stack+Developer;Building+amazing+web+experiences;Always+learning+new+technologies;Aspiring+React+Specialist" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="3" />
+</div>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />  Hi
 🏆Sk Kamaluddin is Here🏆
-
-</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00bfbf&center=true&vCenter=true&width=600&lines=Aspiring+MERN+Stack+Developer+💻;Aspiring+React+Specialist+⚛️;Open+Source+Enthusiast+🌱;Passionate+about+Learning+📚" alt="Typing SVG" />
-</p>
 
 
 <h3 align="center">As a Junior Web Developer, I’m passionate about the frontend From India
