@@ -100,7 +100,7 @@ Currently, I’m exploring React to strengthen my development skills and contrib
 
 ## 🚀 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,github,figma" />
 </p>
 
 <br/>
