@@ -44,7 +44,7 @@ Currently, I’m exploring React to strengthen my development skills and contrib
 
 <br clear="right"/>
 
-<h1 style="margin-bottom: 6px;">💫 About Me</h1>
+<h2 style="margin-bottom: 6px;">💫 Current Activities</h2>
 
 <img 
   align="right" 
@@ -53,8 +53,7 @@ Currently, I’m exploring React to strengthen my development skills and contrib
   style="margin-top: 0px; margin-left: 12px;"
   alt="coding animation"/> <br/>
 
-
-## 📌 Current Activities
+ <!--## 📌 Current Activities-->
 
 - 🌐 Exploring **Next.js **
 - 🌍 Working on a **some small** projects
