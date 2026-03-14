@@ -36,6 +36,14 @@
 
 <br clear="right"/>
 
+## 👩‍💻 About Me
+
+Hi, I’m Sk Kamaluddin, a results-driven Frontend Developer specializing in the MERN stack. I’m passionate about building clean, scalable, and accessible web applications that offer great user experiences. My focus is on writing efficient React code, applying modern UI/UX principles, and continuously improving through learning and collaboration.
+
+Currently, I’m exploring React to strengthen my development skills and contribute to meaningful projects.
+
+<br clear="right"/>
+
 <h1 style="margin-bottom: 6px;">💫 About Me</h1>
 
 <img 
@@ -46,13 +54,13 @@
   alt="coding animation"/> <br/>
 
 
-  ✍️ I'm a passionate **Frontend Developer** who loves turning ideas into  
-   clean, responsive, and user-friendly web experiences.
+## 📌 Current Activities
 
-- 🌱 Currently learning **HTML, CSS, JavaScript**
-- 🎯 Focused on UI design & real-world projects
-- 💡 Improving logic, performance & best practices
-- 🔥 Goal: Professional Frontend Engineer
+- 🌐 Exploring **Next.js **
+- 🌍 Working on a **some small** projects
+- 📘 Learning **React** and React patterns
+- ⚡ Building modern, responsive **React projects**
+- 🤝 Interested in Contributing to open-source projects
 
 <br clear="right"/>
 
