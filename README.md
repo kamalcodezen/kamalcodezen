@@ -59,7 +59,7 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 - 🌍 Working on a **some small** projects
 - 📘 Learning **React** and React patterns
 - ⚡ Building modern, responsive **React projects**
-- 🤝 Interested in Contributing to open-source projects
+- 🤝 Interested in contributing to open-source projects
 
 <br clear="right"/>
 
