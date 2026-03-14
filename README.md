@@ -55,7 +55,7 @@ Currently, I’m exploring React to strengthen my development skills and contrib
 
  <!--## 📌 Current Activities-->
 
-- 🌐 Exploring **Next.js **
+- 🌐 Exploring **Next.js**
 - 🌍 Working on a **some small** projects
 - 📘 Learning **React** and React patterns
 - ⚡ Building modern, responsive **React projects**
