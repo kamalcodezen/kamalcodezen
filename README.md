@@ -21,15 +21,15 @@
 
 <br clear="right"/>
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics-->
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight&hide_border=true&background=1a1b27&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="500" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight&hide_border=true&background=1a1b27&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="600" />
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" width="500" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" width="400" />
     </td>
   </tr>
 </table>
