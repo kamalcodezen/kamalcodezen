@@ -42,7 +42,7 @@ Hi, I’m Sk Kamaluddin, a results-driven Frontend Developer specializing in the
 
 Currently, I’m exploring React to strengthen my development skills and contribute to meaningful projects.
 
-<br clear="right"/>
+<!-- <br clear="right"/> -->
 
 <h2 style="margin-bottom: 6px;">💫 Current Activities</h2>
 
