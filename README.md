@@ -16,9 +16,23 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />  Hi
 🏆Sk Kamaluddin is Here🏆
 
-
 <h3 align="center">As a Junior Web Developer, I’m passionate about the frontend From India
 </h3>
+
+<br clear="right"/>
+
+## 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight&hide_border=true&background=1a1b27&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="500" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" width="500" />
+    </td>
+  </tr>
+</table>
 
 <br clear="right"/>
 
@@ -81,21 +95,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,github,figma" />
 </p>
-
-
-
-## 📊 GitHub Statistics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight&hide_border=true&background=1a1b27&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="500" />
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" width="500" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 
