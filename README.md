@@ -15,11 +15,7 @@
 <h3 align="center">As a Junior Web Developer, I’m passionate about the frontend From India
 </h3>
 
-<br clear="right"/>
 
-
-
-<br clear="right"/>
 
 ## 👩‍💻 About Me
 
