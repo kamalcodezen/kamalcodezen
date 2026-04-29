@@ -14,8 +14,8 @@ jobs:
         with:
           github_user_name: kamalcodezen
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#00ff00&color_dots=#000000,#000000,#003300,#00ff00,#00ff00
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00ff00&color_dots=#000000,#000000,#003300,#00ff00,#00ff00
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
