@@ -1,6 +1,8 @@
 name: Generate Snake
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +13,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: kamalcodezen
-          outputs: dist/snake.svg?color_snake=#00ffcc&color_dots=#000000,#000000,#002222,#004444,#00ffcc
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
