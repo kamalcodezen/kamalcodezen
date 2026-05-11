@@ -72,6 +72,34 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 
 
 
+
+## 📊 Connect with me
+
+<p align="center">
+<a href="https://twitter.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sk-kamaluddin-ab6401393" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/1GPKmgnd29/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" /></a>
+</p>
+
+<div align="center">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamaluddin7908@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/+917908593703" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/kamal_50618" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+
 ## 📊 Connect with me
 <p align="center">
   <a href=""><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
