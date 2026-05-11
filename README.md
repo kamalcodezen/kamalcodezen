@@ -99,8 +99,6 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kamalcodezen&style=for-the-badge&color=00bfbf&label=Profile+Views" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/kamalcodezen?style=for-the-badge&cacheSeconds=1" />
@@ -109,12 +107,6 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 
 
 
-
-
-
-
-
-<br/>
 
 ## 💡 Featured Projects
 <div align="center">
@@ -166,13 +158,6 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="Thank You" />
 <br/> -->
 
-<div align="center">
-
-📍 **Location:** New Delhi, India  
-📧 **Email:** kamaluddin7908@gmail.com
-<!--  📞 **Phone:** -->
-
-</div>
 
 
 
@@ -181,9 +166,18 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 </div>
 
 <div align="center">
+
+<div align="center">
+
+📍 **Location:** New Delhi, India  
+📧 **Email:** kamaluddin7908@gmail.com
+<!--  📞 **Phone:** -->
+
+</div>
+
   
-  ⭐️ **If you like my work, feel free to star my repos!**  
-  🤝 **I'm open to collaboration and learning from amazing developers!**
+ <!-- ⭐️ **If you like my work, feel free to star my repos!**  
+  🤝 **I'm open to collaboration and learning from amazing developers!**  -->
   
 </div>
 
