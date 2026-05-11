@@ -99,6 +99,15 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamalcodezen&style=for-the-badge&color=00bfbf&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/kamalcodezen?style=for-the-badge&cacheSeconds=1" />
+  <img src="https://img.shields.io/github/stars/kamalcodezen?style=for-the-badge&color=00bfbf&labelColor=1a1b27&logo=github" alt="GitHub Stars" />
+</div>
+
+
+
+
 
 ## 📊 Connect with me
 <p align="center">
@@ -138,11 +147,6 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 
  <br clear="right"/>
  
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamalcodezen&style=for-the-badge&color=00bfbf&label=Profile+Views" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/kamalcodezen?style=for-the-badge&cacheSeconds=1" />
-  <img src="https://img.shields.io/github/stars/kamalcodezen?style=for-the-badge&color=00bfbf&labelColor=1a1b27&logo=github" alt="GitHub Stars" />
-</div>
 
 
 <br/>
