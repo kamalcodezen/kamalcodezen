@@ -124,10 +124,10 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 <br/>
 
 
-# ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cacheSeconds=1" />
 </p>
 
 <!-- ## ✍️ Random Dev Quote
