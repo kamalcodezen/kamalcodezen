@@ -124,13 +124,19 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 <br/>
 
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
+</p>
+
+<!-- ## ✍️ Random Dev Quote
 
 <p align="left">
   <img 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=All%20power%20is%20within%20you.%20You%20can%20do%20anything%20and%20everything.&author=Swami%20Vivekananda" 
   />
-</p>
+</p>-->
 
 
 
