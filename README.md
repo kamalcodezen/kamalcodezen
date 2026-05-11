@@ -127,7 +127,7 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Code+Create+Repeat;Dream+Big+Build+Bigger;Frontend+Developer+Journey;Never+Stop+Learning;MERN+Stack+Developer;Build+Modern+Web+Experiences" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
 
 <!-- ## ✍️ Random Dev Quote
