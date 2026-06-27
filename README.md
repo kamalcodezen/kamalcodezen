@@ -106,7 +106,7 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 </div>
 
 
-
+<!--
 
 ## 💡 Featured Projects
 <div align="center">
@@ -119,7 +119,7 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 
 </div
 <br/>
-
+--->
 <!--
 ## ✍️ Random Dev Quote
 
