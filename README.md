@@ -113,23 +113,20 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 
 | Project | Description | Tech Stack | Live | Code |
 |---------|-------------|------------|------|------|
-| 📘 English Janala | API ভিত্তিক Interactive Vocabulary Learning App (Search, Dark Mode, Voice) | HTML, Tailwind, DaisyUI, JavaScript, REST API | [Live](https://kamalcodezen.github.io/english-janala-vocabulary-app/) | [Code](https://github.com/kamalcodezen/english-janala-vocabulary-app) |
-| 💸 Payoo Money Transfer | Modern Banking UI with Transaction Layout | HTML, CSS, JavaScript | [Live](https://kamalcodezen.github.io/payoo-money-transfer-project/) | [Code](https://github.com/kamalcodezen/payoo-money-transfer-project) |
-| 🍵 Tea House Landing Page | Fully Responsive Tailwind CSS Landing Page | HTML, Tailwind CSS | [Live](https://kamalcodezen.github.io/tea-house-tailwind-project/) | [Code](https://github.com/kamalcodezen/tea-house-tailwind-project) |
-| 🎆 Realistic Fireworks | Creative JavaScript Animation Project | HTML, CSS, JavaScript | [Live](https://kamalcodezen.github.io/realistic-fireworks/) | [Code](https://github.com/kamalcodezen/realistic-fireworks) |
-| 🌸 Flower Animation | CSS Based Creative Animation | HTML, CSS | [Live](https://kamalcodezen.github.io/flower-animation-repo/) | [Code](https://github.com/kamalcodezen/flower-animation-repo) |
-| 🧠 Fitness Web UI | Modern Responsive Fitness Website Design | HTML, CSS | [Live](https://kamalcodezen.github.io/fitness-web-repo/) | [Code](https://github.com/kamalcodezen/fitness-web-repo) |
+|  **BiblioDrop** | Multi-tenant digital book logistics platform with Stripe workflows, ImgBB uploads, and purchase-verified review validation grids under high-fidelity RBAC dashboards. | Next.js (App Router), Node.js, Express, MongoDB Atlas, Better Auth, Stripe API, Tailwind CSS | [Live](https://shelfparcel-client.vercel.app) | [Client Code](https://github.com/kamalcodezen/shelfparcel-client) / [Server Code](https://github.com/kamalcodezen/shelfparcel-server) |
+|  **IdeaVault** | Community-driven startup idea validation platform featuring nested discussion networks, live multi-criteria database slicing search, and dynamic interaction metrics. | Next.js, Node.js, Express, MongoDB, JWT Authentication, Tailwind CSS, Framer Motion | [Live](https://design-vault-lovat.vercel.app) | [Code](https://github.com/kamalcodezen) |
+|  **Royal Tiles Gallery** | Enterprise-grade architectural product showcase application with centralized collection mapping, dynamic search matrix queries, and fluid asset streaming. | Next.js (App Router), MongoDB, Better Auth, HeroUI, SwiperJS, Tailwind CSS | [Live](https://royal-tiles-gallery.vercel.app) | [Code](https://github.com/kamalcodezen) |
 
 </div
 <br/>
 
-
+<!--
 ## ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
-
+--->
 <!-- ## ✍️ Random Dev Quote
 
 <p align="left">
@@ -166,10 +163,10 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 
 
 
-
+<!-- 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
-</div>
+</div>-->
 
 <div align="center">
 
