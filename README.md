@@ -17,25 +17,17 @@
 
 
 
-<!--  ## 👩‍💻 About Me
-
- Hi, I’m Sk Kamaluddin, a results-driven Frontend Developer specializing in the MERN stack. I’m passionate about building clean, scalable, and accessible web applications that offer great user experiences. My focus is on writing efficient React code, applying modern UI/UX principles, and continuously improving through learning and collaboration. -->
-
-<!--  Currently, I’m exploring **Next.js** to strengthen my development skills and contribute to meaningful projects. -->
-
-
-
 
 <br clear="right"/>
 
  <h2 style="margin-bottom: 6px;">💫 Current Activities</h2> 
 
- <img 
+ <!-- <img 
   align="right" 
   src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
   width="300"
   style="margin-top: 0px; margin-left: 12px;"
-  alt="coding animation"/> <br/> 
+  alt="coding animation"/> <br/>  -->
 
  ## 📌 Current Activities
 
