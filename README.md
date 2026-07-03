@@ -20,7 +20,7 @@
 
 <br clear="right"/>
 
-<!-- <h2 style="margin-bottom: 6px;">💫 Current Activities</h2> -->
+ <h2 style="margin-bottom: 6px;">💫 Current Activities</h2> 
 
  <!-- <img 
   align="right" 
