@@ -20,7 +20,7 @@
 
 <br clear="right"/>
 
- <h2 style="margin-bottom: 6px;">💫 Current Activities</h2> 
+<!-- <h2 style="margin-bottom: 6px;">💫 Current Activities</h2> -->
 
  <!-- <img 
   align="right" 
@@ -29,7 +29,7 @@
   style="margin-top: 0px; margin-left: 12px;"
   alt="coding animation"/> <br/>  -->
 
- ## 📌 Current Activities
+ <!-- ## 📌 Current Activities -->
 
 - 🚀 Engineering full-stack architectures using Next.js, React, and monolithic Express.js environments.
 - 🔐 Implementing secure role-based access controls and custom BetterAuth setups with MongoDB adapters.
@@ -62,7 +62,7 @@
 
 ## 🚀 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,github,figma"  height="400" />
 </p>
 
 
