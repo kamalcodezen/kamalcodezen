@@ -12,20 +12,27 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />  Hi
 🏆Sk Kamaluddin is Here🏆
 
-<h3 align="center">As a Junior Web Developer, I’m passionate about the frontend From India
-</h3>
+<!-- <h3 align="center">As a Junior Web Developer, I’m passionate about the frontend From India
+</h3> -->
 
 
 
-## 👩‍💻 About Me
+<!--  ## 👩‍💻 About Me
 
-Hi, I’m Sk Kamaluddin, a results-driven Frontend Developer specializing in the MERN stack. I’m passionate about building clean, scalable, and accessible web applications that offer great user experiences. My focus is on writing efficient React code, applying modern UI/UX principles, and continuously improving through learning and collaboration.
+ Hi, I’m Sk Kamaluddin, a results-driven Frontend Developer specializing in the MERN stack. I’m passionate about building clean, scalable, and accessible web applications that offer great user experiences. My focus is on writing efficient React code, applying modern UI/UX principles, and continuously improving through learning and collaboration. -->
 
-Currently, I’m exploring **Next.js** to strengthen my development skills and contribute to meaningful projects.
+<!--  Currently, I’m exploring **Next.js** to strengthen my development skills and contribute to meaningful projects. -->
+
+- 🚀 Engineering full-stack architectures using Next.js, React, and monolithic Express.js environments.
+- 🔐 Implementing secure role-based access controls and custom BetterAuth setups with MongoDB adapters.
+- ⚡ Intercepting inbound API routes with dynamic bearer tokens and secure JWKS cryptographic verification.
+- 📬 Building optimized MongoDB connection pools and asynchronous background pipelines (Nodemailer, Stripe).
+- 📊 Aggregating multi-tier relational data vectors for complex indexing search and analytical dashboards (Recharts).
+
 
 <!-- <br clear="right"/> -->
 
-<h2 style="margin-bottom: 6px;">💫 Current Activities</h2>
+<!-- <h2 style="margin-bottom: 6px;">💫 Current Activities</h2> -->
 
 <img 
   align="right" 
@@ -36,11 +43,7 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 
  <!--## 📌 Current Activities-->
 
-- 🌐 Engineering full-stack architectures with Next.js and Express.js monoliths
-- ⚡ Integrating secure cryptographic authentication layers (Better-Auth, Remote JWKS via Jose)
-- 📘 Developing responsive interfaces using modern React ecosystem and Tailwind-based UI libraries
-- 🚀 Implementing asynchronous background pipelines (Nodemailer SMTP automation) and MongoDB data layers
-- 🤝 Open to collaboration on full-stack web applications and scalable system logistics
+
 
 <br clear="right"/>
 
