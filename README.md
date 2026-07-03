@@ -36,11 +36,11 @@ Currently, I’m exploring **Next.js** to strengthen my development skills and c
 
  <!--## 📌 Current Activities-->
 
-- 🌐 Exploring **Next.js**
-- 🌍 Working on a **some small** projects
-- 📘 Learning **React** and React patterns
-- ⚡ Building modern, responsive **React projects**
-- 🤝 Interested in contributing to open-source projects
+- 🌐 Engineering full-stack architectures with Next.js and Express.js monoliths
+- ⚡ Integrating secure cryptographic authentication layers (Better-Auth, Remote JWKS via Jose)
+- 📘 Developing responsive interfaces using modern React ecosystem and Tailwind-based UI libraries
+- 🚀 Implementing asynchronous background pipelines (Nodemailer SMTP automation) and MongoDB data layers
+- 🤝 Open to collaboration on full-stack web applications and scalable system logistics
 
 <br clear="right"/>
 
