@@ -23,27 +23,27 @@
 
 <!--  Currently, I’m exploring **Next.js** to strengthen my development skills and contribute to meaningful projects. -->
 
-- 🚀 Engineering full-stack architectures using Next.js, React, and monolithic Express.js environments.
-- 🔐 Implementing secure role-based access controls and custom BetterAuth setups with MongoDB adapters.
-- ⚡ Intercepting inbound API routes with dynamic bearer tokens and secure JWKS cryptographic verification.
-- 📬 Building optimized MongoDB connection pools and asynchronous background pipelines (Nodemailer, Stripe).
-- 📊 Aggregating multi-tier relational data vectors for complex indexing search and analytical dashboards (Recharts).
+
 
 
 <!-- <br clear="right"/> -->
 
 <!-- <h2 style="margin-bottom: 6px;">💫 Current Activities</h2> -->
 
-<img 
+<!-- <img 
   align="right" 
   src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
   width="300"
   style="margin-top: 0px; margin-left: 12px;"
-  alt="coding animation"/> <br/>
+  alt="coding animation"/> <br/> -->
 
  <!--## 📌 Current Activities-->
 
-
+- 🚀 Engineering full-stack architectures using Next.js, React, and monolithic Express.js environments.
+- 🔐 Implementing secure role-based access controls and custom BetterAuth setups with MongoDB adapters.
+- ⚡ Intercepting inbound API routes with dynamic bearer tokens and secure JWKS cryptographic verification.
+- 📬 Building optimized MongoDB connection pools and asynchronous background pipelines (Nodemailer, Stripe).
+- 📊 Aggregating multi-tier relational data vectors for complex indexing search and analytical dashboards (Recharts).
 
 <br clear="right"/>
 
