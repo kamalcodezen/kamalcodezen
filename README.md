@@ -18,9 +18,9 @@
 
 
 
-<br clear="right"/>
+<!-- <br clear="right"/> -->
 
- <h2 style="margin-bottom: 6px;">💫 Current Activities</h2> 
+ <h2 style="margin-bottom: 6px;">💫 Quick Facts</h2> 
 
  <!-- <img 
   align="right" 
@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight&hide_border=true&background=1a1b27&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="1000" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=tokyonight&hide_border=true&background=1a1b27&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" height="400" width="1000" />
     </td>
   <!--  <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" width="400" />
@@ -62,7 +62,7 @@
 
 ## 🚀 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,github,figma"  height="400" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,github,figma"  />
 </p>
 
 
