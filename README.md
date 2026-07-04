@@ -80,6 +80,14 @@
 
 <div align="center">
 
+<a href="https://kamaluddin-portfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1wJ8g3fPeNC9h7kdxgP0Hti_Euf5oMtfQ/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄_Resume-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamaluddin7908@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
