@@ -71,18 +71,6 @@
 ## 📊 Connect with me
 <div align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamaluddin7908@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://kamaluddin-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1wJ8g3fPeNC9h7kdxgP0Hti_Euf5oMtfQ/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sk-kamaluddin-ab6401393" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
