@@ -69,16 +69,29 @@
 
 
 ## 📊 Connect with me
-
-<p align="center">
-<a href="https://twitter.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sk-kamaluddin-ab6401393" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/share/1GPKmgnd29/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" /></a>
-</p>
-
 <div align="center">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamaluddin7908@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://kamaluddin-portfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1wJ8g3fPeNC9h7kdxgP0Hti_Euf5oMtfQ/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sk-kamaluddin-ab6401393" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1GPKmgnd29/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+
 
 <a href="https://kamaluddin-portfolio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
