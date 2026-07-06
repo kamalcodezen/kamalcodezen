@@ -48,6 +48,46 @@
 
 <!-- ## 📊 GitHub Statistics-->
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=kamalcodezen&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true"
+        height="190"
+      />
+    </td>
+
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=kamalcodezen&theme=tokyonight&hide_border=true&border_radius=12"
+        height="190"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalcodezen&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"
+        width="100%"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
 <table>
   <tr>
  <td>
