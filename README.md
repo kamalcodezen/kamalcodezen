@@ -46,13 +46,13 @@
 </div>
 
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats  -->
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neya-mul&bg_color=0d1117&color=58C4DC&line=58C4DC&point=ffffff&area_color=0a2540&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%"/>
+<!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neya-mul&bg_color=0d1117&color=58C4DC&line=58C4DC&point=ffffff&area_color=0a2540&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%"/>
 
-<br/>
+<br/>  -->
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=neya-mul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="170"/>
 &nbsp;
