@@ -48,12 +48,14 @@
 
 <!-- ## 📊 GitHub Statistics-->
 
-<p align="center">
+<td>
   <img
     src="https://streak-stats.demolab.com?user=kamalcodezen&theme=tokyonight&hide_border=true"
+    height="200"
+    width="1000"
     alt="GitHub Streak"
   />
-</p>
+</td>
 
 
 <table>
