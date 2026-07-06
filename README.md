@@ -46,28 +46,19 @@
 </div>
 
 
-<!-- ## 📊 GitHub Statistics-->
+## 📊 GitHub Stats
 
-<td>
-  <img
-    src="https://streak-stats.demolab.com?user=kamalcodezen&theme=tokyonight&hide_border=true"
-    height="200"
-    width="1000"
-    alt="GitHub Streak"
-  />
-</td>
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neya-mul&bg_color=0d1117&color=58C4DC&line=58C4DC&point=ffffff&area_color=0a2540&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%"/>
 
-<table>
-  <tr>
- <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalcodezen&theme=default&hide_border=true&background=00000000&ring=c5a880&fire=e57c58&currStreakNum=c5a880&sideNums=94a3b8&currStreakLabel=c5a880" height="200" width="1000" alt="Kamalcodezen GitHub Streak Stats" />
-</td>
-  <!--  <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalcodezen&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00bfbf&line=00bfbf&point=c9d1d9" width="400" />
-    </td>-->
-  </tr>
-</table>
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=neya-mul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="170"/>
+&nbsp;
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya-mul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58C4DC&text_color=8b949e" height="170"/> -->
+
+</div>
 
 
 ## 🚀 Tech Stack:
