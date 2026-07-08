@@ -39,15 +39,23 @@
 
 <!-- ## 📊 GitHub Stats  -->
 
-<div align="center">
+## 📊 GitHub & LeetCode Stats
 
-<br/> 
+<table align="center">
+<tr>
+<td align="center">
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kamalcodezen&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="200"/>
-&nbsp;
 
+</td>
 
-</div>
+<td align="center">
+
+<img src="https://leetcard.jacoblin.cool/kamalcodezen?theme=dark&font=baloo" height="200"/>
+
+</td>
+</tr>
+</table>
 
 
 ## 🚀 Tech Stack:
