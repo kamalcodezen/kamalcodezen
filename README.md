@@ -22,20 +22,13 @@
 
  <h2 style="margin-bottom: 6px;">💫 Quick Facts</h2> 
 
- <!-- <img 
-  align="right" 
-  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-  width="300"
-  style="margin-top: 0px; margin-left: 12px;"
-  alt="coding animation"/> <br/>  -->
+💫 Quick Facts
 
- <!-- ## 📌 Current Activities -->
-
-- 🚀 Engineering full-stack architectures using Next.js, React, and monolithic Express.js environments.
-- 🔐 Implementing secure role-based access controls and custom BetterAuth setups with MongoDB adapters.
-- ⚡ Intercepting inbound API routes with dynamic bearer tokens and secure JWKS cryptographic verification.
-- 📬 Building optimized MongoDB connection pools and asynchronous background pipelines (Nodemailer, Stripe).
-- 📊 Aggregating multi-tier relational data vectors for complex indexing search and analytical dashboards (Recharts).
+▸ Building full-stack applications with Next.js, React, Express.js, and MongoDB.
+▸ Exploring AI-powered web applications and modern frontend engineering.
+▸ Implementing authentication and role-based access control using BetterAuth and JWT.
+▸ Integrating REST APIs, Stripe, and Nodemailer into production-style projects.
+▸ Solving LeetCode problems to strengthen Data Structures & Algorithms fundamentals.
 
 <br clear="right"/>
 
@@ -50,13 +43,11 @@
 
 <div align="center">
 
-<!--  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neya-mul&bg_color=0d1117&color=58C4DC&line=58C4DC&point=ffffff&area_color=0a2540&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%"/>
-
 <br/>  -->
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kamalcodezen&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="200"/>
 &nbsp;
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya-mul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58C4DC&text_color=8b949e" height="170"/> -->
+
 
 </div>
 
