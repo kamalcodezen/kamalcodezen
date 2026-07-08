@@ -1,7 +1,7 @@
  
 <div align="center">
   <!-- 🌟 Banner Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,1&height=180&section=header&text=SK%20KAMALUDDIN&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Enthusiast&descAlignY=50&descAlign=50" alt="Banner" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,1&height=180&section=header&text=SK%20KAMALUDDIN&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Next.js%20%7C%20AI%20Enthusiast&descAlignY=50&descAlign=50" alt="Banner" />
 </div>
 
 
