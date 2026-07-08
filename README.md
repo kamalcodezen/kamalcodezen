@@ -175,8 +175,8 @@
 <div align="center">
 
 📍 **Location:** New Delhi, India  
-📧 **Email:** kamaluddin7908@gmail.com
-<!--  📞 **Phone:** -->
+<!--   📧 **Email:** kamaluddin7908@gmail.com
+      📞 **Phone:** -->
 
 </div>
 
