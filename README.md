@@ -21,13 +21,11 @@
 <!-- <br clear="right"/> -->
 
  <h2 style="margin-bottom: 6px;">💫 Quick Facts</h2> 
-
-💫 Quick Facts
-
-▸ Building full-stack applications with Next.js, React, Express.js, and MongoDB.
-▸ Exploring AI-powered web applications and modern frontend engineering.
-▸ Implementing authentication and role-based access control using BetterAuth and JWT.
-▸ Integrating REST APIs, Stripe, and Nodemailer into production-style projects.
+ 
+▸ Building full-stack applications with Next.js, React, Express.js, and MongoDB.  
+▸ Exploring AI-powered web applications and modern frontend engineering.  
+▸ Implementing authentication and role-based access control using BetterAuth and JWT.  
+▸ Integrating REST APIs, Stripe, and Nodemailer into production-style projects.  
 ▸ Solving LeetCode problems to strengthen Data Structures & Algorithms fundamentals.
 
 <br clear="right"/>
