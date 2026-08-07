@@ -79,7 +79,7 @@
 
 
 
-<a href="https://kamaluddin-portfolio.netlify.app" target="_blank">
+<a href="https://kamal-uddin-portfolio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
