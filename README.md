@@ -1,16 +1,17 @@
  
 <div align="center">
   <!-- 🌟 Banner Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,1&height=180&section=header&text=SK%20KAMALUDDIN&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%7C%20AI%20Enthusiast&descAlignY=58&descAlign=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=SK%20KAMALUDDIN&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%7C%20AI%20Enthusiast&descAlignY=58&descAlign=50" alt="Banner" />
 </div>
 
 
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="3" />
 </div>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />  Hi
-🏆Sk Kamaluddin is Here🏆
+🏆Sk Kamaluddin is Here🏆 -->
 
 <!-- <h3 align="center">As a Junior Web Developer, I’m passionate about the frontend From India
 </h3> -->
@@ -22,11 +23,12 @@
 
  <h2 style="margin-bottom: 6px;">💫 Quick Facts</h2> 
  
-▸ Building full-stack applications with Next.js, React, Express.js, and MongoDB.  
-▸ Exploring AI-powered web applications and modern frontend engineering.  
-▸ Implementing authentication and role-based access control using BetterAuth and JWT.  
-▸ Integrating REST APIs, Stripe, and Nodemailer into production-style projects.  
-▸ Solving LeetCode problems to strengthen Data Structures & Algorithms fundamentals.
+▸  **Value Creation:** Architecting Web & AI platforms as case studies that deliver measurable business value.  
+▸  **Proactive Initiative:** Building resilient multi-provider AI fallback gateways with real-time SSE streaming.  
+▸  **Database Architecture:** Designing PostgreSQL double-entry ledgers and MongoDB server-side query slicing.  
+▸  **Key Achievements:** Engineering tamper-proof HMAC-SHA256 verification and automated Stripe state machines.  
+▸  **Unique Selling Proposition:** Full-lifecycle builder driving immediate business ROI through Next.js & AI architectures.  
+
 
 <br clear="right"/>
 
@@ -60,8 +62,9 @@
 
 ## 🚀 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,github,figma"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,git,github,postman,vercel,figma" alt="Kamal's Tech Stack" />
 </p>
+
 
 
 
@@ -73,7 +76,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/share/1GPKmgnd29/" target="_blank">
+<a href="https://www.facebook.com/share/18nTQWbteY/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -83,7 +86,7 @@
   <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1wJ8g3fPeNC9h7kdxgP0Hti_Euf5oMtfQ/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1M96sWhuuvmRasl7s9yEhSQPjGxHbTwXm/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
