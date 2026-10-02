@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1M96sWhuuvmRasl7s9yEhSQPjGxHbTwXm/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1C4OjZs0HFby3ExTW7EwZcr_lQU9ovDUm/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
